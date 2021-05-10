@@ -24,7 +24,7 @@ to improve the workflow (sorting algorithms, maximum selections, etc.).
 
 ## Usage
 
-Most recommended for educational purposes. The graphical interface can help studets,
+Most recommended for educational purposes. The graphical interface can help students,
 to understand how structograms work, and the code generation shows well,
 how different algorithms look in different programming languages.
 
