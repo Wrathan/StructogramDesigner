@@ -26,7 +26,7 @@ to improve the workflow (sorting algorithms, maximum selections, etc.).
 
 Most recommended for educational purposes. The graphical interface can help studets,
 to understand how structograms work, and the code generation shows well,
-how different algorithms looks in different programming languages.
+how different algorithms look in different programming languages.
 
 ## Setup
 Simply run *sdsetup.exe* to install the software in Windows systems.
