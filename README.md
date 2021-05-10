@@ -29,4 +29,4 @@ to understand how structograms work, and the code generation shows well,
 how different algorithms look in different programming languages.
 
 ## Setup
-Simply run *sdsetup.exe* to install the software in Windows systems.
+Simply run *sdsetup.exe* to install the software on Windows.
