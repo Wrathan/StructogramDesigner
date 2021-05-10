@@ -8,7 +8,7 @@ The application contains some basic algorithms as structograms by default,
 to improve the workflow (sorting algorithms, maximum selections, etc.).
 
 ## Possible user interactions for structograms:
-* Save/load (serialization)
+* Save/load (serialization/deserialization)
 * Set pre- and postconditions, different types of input arguments, and return type
 * Add differend types of commands
   * Variable operations (declaration, definition, assignment)
