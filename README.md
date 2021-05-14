@@ -10,7 +10,7 @@ to improve the workflow (sorting algorithms, maximum selections, etc.).
 ## Possible user interactions for structograms:
 * Save/load (serialization/deserialization)
 * Set pre- and postconditions, different types of input arguments, and return type
-* Add differend types of commands
+* Add different types of commands
   * Variable operations (declaration, definition, assignment)
   * Loops (while, for, foreach)
   * Braching statements (if, switch-case)
